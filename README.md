@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi
+
+Stats:
+https://github-readme-stats.hackclub.dev/api/wakatime?username=1269&api_domain=hackatime.hackclub.com&theme=rose_pine&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+
 
 <!--
 **Rishthewizard/Rishthewizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
